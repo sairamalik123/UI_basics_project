@@ -47,6 +47,7 @@ a:hover{
     margin-bottom: 4%;
 }
 .three_icons_content{
+    padding-bottom:3%;
     background-color: white;
     margin-left: 2%;
 }
@@ -368,4 +369,13 @@ ul li a:hover {
 }
 .padding_contact{
     margin-top: 8%;
+}
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.padding_left_zero{
+    padding-left: 0px;
+}
+.padding_right_zero{
+    padding-right:0px;
 }
